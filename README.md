@@ -5,7 +5,7 @@ Para instalar todas as dependências do projeto você terá que executar esse co
 
 Depois de instalado as dependências, para iniciar o projeto, terá  que executar esse comando:
 
-### `yarn start`
+### `yarn start or npm start`
 
 Após iniciado abra seu navegador com o endereço abaixo para visualizar o projeto.
 abra [http://localhost:3000](http://localhost:3000) 
