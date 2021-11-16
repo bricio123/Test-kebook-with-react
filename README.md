@@ -2,7 +2,8 @@
 
 Para instalar todas as dependências do projeto você terá que executar esse comando no terminal
 ### `npm install`
-usando o:
+
+Depois de instalado as dependências, para iniciar o projeto, terá  que executar esse comando:
 
 ### `yarn start`
 
